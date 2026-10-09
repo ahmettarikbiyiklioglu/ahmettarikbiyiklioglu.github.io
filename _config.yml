@@ -1,0 +1,38 @@
+# Site settings. GitHub Pages builds this file with Jekyll; no workflow is needed.
+title: Ahmet Tarık Bıyıklıoğlu
+description: PhD candidate in Political Science and Public Administration at Bilkent University, working on comparative social policy, welfare states and policy capacity.
+url: "https://ahmettarikbiyiklioglu.github.io"
+baseurl: ""
+lang: en
+timezone: Europe/Istanbul
+
+author:
+  name: Ahmet Tarık Bıyıklıoğlu
+  email: a.biyiklioglu@bilkent.edu.tr
+
+# Navigation, in order. The URL must match each page's permalink.
+nav:
+  - title: About
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+
+# Build settings. "theme: null" stops GitHub Pages from applying its default Primer theme.
+theme: null
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

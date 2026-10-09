@@ -1,0 +1,56 @@
+# Publications and presentations. Add new entries at the top of the relevant list.
+# Fields: authors, year, title, venue, detail (volume/pages/place), doi, url, note.
+# Working papers may also carry status ("Under review at", "Revise and resubmit at") plus venue.
+# Only the fields you fill in are shown.
+
+articles:
+  - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
+    year: 2026
+    title: "The Crowding-In Effect: How Technical Assistance Expands Advisory Systems and Builds Policy Capacity"
+    venue: "Policy Design and Practice"
+    detail: "1–11"
+    doi: "10.1080/25741292.2026.2710926"
+    note: "Open access"
+
+working_papers:
+  - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
+    title: "Recasting Policy Capacity Measurement for Societal Challenges: Pivotal Actors, Subsystems, and Configurations"
+    status: "Under review at"
+    venue: "Policy and Society"
+
+reports:
+  - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
+    year: 2024
+    title: "One Year After: Living and Working Conditions in Adıyaman, Hatay, Kahramanmaraş and Malatya after the February 2023 Earthquakes in Türkiye"
+    venue: "Geneva: International Labour Office and International Organization for Migration"
+    url: "https://turkiye.iom.int/sites/g/files/tmzbdl1061/files/documents/2024-10/household-survey-report.pdf"
+
+presentations:
+  - title: "From Capabilities to Work: An Assessment of Disability Policy in Türkiye through the Social Investment Framework"
+    venue: "International Workshop and Thematic Research Dissemination Conference"
+    detail: "Ankara, May 2026"
+  - title: "Politics of De-fragmentation: What Does Policy Integration Research Teach Us"
+    venue: "28th IPSA World Congress of Political Science"
+    detail: "Seoul, July 2025"
+    note: "with H. Tolga Bölükbaşı"
+  - title: "Political Sources of Health Inequities: Mechanisms of Policy Change in Disability Policies"
+    venue: "7th International Conference on Public Policy (ICPP7)"
+    detail: "Chiang Mai, June 2025"
+  - title: "The EU's 'Governance Transfer' and the Expansion of the Policy Advisory Systems in Pre-Accession States"
+    venue: "7th International Conference on Public Policy (ICPP7)"
+    detail: "Chiang Mai, June 2025"
+    note: "with H. Tolga Bölükbaşı"
+  - title: "Structuring Inequalities Among Disabled Persons: Disability Policies for Veterans and Civilians in the US, Germany, and Türkiye"
+    venue: "13th International NordWel Summer School, Bremen, August 2024; 11th Annual Graduate Workshop on Comparative Historical Research on Europe (HSSR/CES)"
+    detail: "Lyon, July 2024"
+  - title: "Structuring Inequalities Among Disabled Persons: Assistive Technology Policies Addressing Veterans and Civilians in the US and Türkiye"
+    venue: "30th International Conference of Europeanists (CES)"
+    detail: "Lyon, July 2024"
+    note: "with H. Tolga Bölükbaşı"
+  - title: "The 'How-To' Guide to Policy Integration in Tackling Societal Challenges"
+    venue: "30th International Conference of Europeanists (CES)"
+    detail: "Lyon, July 2024"
+    note: "with H. Tolga Bölükbaşı"
+  - title: "Some Disabled Are More Deserving: The Case of US and Turkish Disability Policies"
+    venue: "American Political Science Association (APSA) Annual Meeting"
+    detail: "Online, September 2022"
