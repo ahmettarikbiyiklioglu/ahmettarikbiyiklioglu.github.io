@@ -10,6 +10,13 @@ author:
   name: Ahmet Tarık Bıyıklıoğlu
   email: a.biyiklioglu@bilkent.edu.tr
 
+# Visitor statistics. Both are off while empty. Fill in ONE of them after creating the account:
+#   goatcounter: the site code you chose at goatcounter.com (for "biyiklioglu.goatcounter.com" write biyiklioglu)
+#   cloudflare_token: the beacon token from Cloudflare Web Analytics
+analytics:
+  goatcounter: ""
+  cloudflare_token: ""
+
 # Navigation, in order. The URL must match each page's permalink.
 nav:
   - title: About

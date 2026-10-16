@@ -21,7 +21,7 @@ Alongside academic work, I have carried out applied research for the Internation
 <ul class="contact">
   <li><span class="label">Email</span> <a href="mailto:a.biyiklioglu@bilkent.edu.tr">a.biyiklioglu@bilkent.edu.tr</a></li>
   <li><span class="label">ORCID</span> <a href="https://orcid.org/0009-0000-2620-611X">0009-0000-2620-611X</a></li>
-  <li><span class="label">GitHub</span> <a href="https://github.com/ahmettarikbiyiklioglu">ahmettarikbiyiklioglu</a></li>
+  <li><span class="label">LinkedIn</span> <a href="https://www.linkedin.com/in/ahmettarikbiyiklioglu/">ahmettarikbiyiklioglu</a></li>
   <li><span class="label">CV</span> <a href="{{ '/assets/pdf/CV_Biyiklioglu.pdf' | relative_url }}">PDF, September 2026</a></li>
   <li><span class="label">Address</span> Department of Political Science and Public Administration, Bilkent University, Ankara 06800, Turkey</li>
 </ul>
