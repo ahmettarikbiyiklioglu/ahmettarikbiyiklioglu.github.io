@@ -11,7 +11,7 @@
   --rule: #E5E7EB;        /* hairlines */
 
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --measure: 44rem;
+  --measure: 56rem;       /* content width on desktop; phones use the full screen regardless */
 }
 
 @media (prefers-color-scheme: dark) {
