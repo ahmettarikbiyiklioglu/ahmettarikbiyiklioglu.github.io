@@ -5,6 +5,10 @@
 
 articles:
   - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
+    year: "forthcoming"
+    title: "Recasting Policy Capacity Measurement for Societal Challenges: Pivotal Actors, Subsystems, and Configurations"
+    venue: "Policy and Society"
+  - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
     year: 2026
     title: "The Crowding-In Effect: How Technical Assistance Expands Advisory Systems and Builds Policy Capacity"
     venue: "Policy Design and Practice"
@@ -12,11 +16,8 @@ articles:
     doi: "10.1080/25741292.2026.2710926"
     note: "Open access"
 
-working_papers:
-  - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
-    title: "Recasting Policy Capacity Measurement for Societal Challenges: Pivotal Actors, Subsystems, and Configurations"
-    status: "Under review at"
-    venue: "Policy and Society"
+# No working papers at present. Add entries below (and remove the []) to bring the section back.
+working_papers: []
 
 reports:
   - authors: "H. Tolga Bolukbasi and Ahmet Tarık Bıyıklıoğlu"
@@ -26,6 +27,14 @@ reports:
     url: "https://turkiye.iom.int/sites/g/files/tmzbdl1061/files/documents/2024-10/household-survey-report.pdf"
 
 presentations:
+  - title: "Can Green Jobs Be Decent Jobs? Industrialization, Firms, and Social Rights in Türkiye"
+    venue: "COP31, Council of Higher Education (YÖK) Pavilion, Green Zone"
+    detail: "Antalya, November 2026"
+    note: "with H. Tolga Bölükbaşı, Kerem Gabriel Öktem, and Dirk Matten; panel hosted by the Bilkent–Bremen Research Lab for Welfare Policies (BBRLab4WP)"
+  - title: "Who Builds the Bridge? Policy Integration for a Just Transition in Seasonal Agriculture"
+    venue: "COP31, Council of Higher Education (YÖK) Pavilion, Green Zone"
+    detail: "Antalya, November 2026"
+    note: "with H. Tolga Bölükbaşı and Atakan Gümüşbaş; digital poster"
   - title: "From Capabilities to Work: An Assessment of Disability Policy in Türkiye through the Social Investment Framework"
     venue: "International Workshop and Thematic Research Dissemination Conference"
     detail: "Ankara, May 2026"

@@ -14,7 +14,7 @@ My research interests are comparative social policy; welfare states and policy c
 
 ## Policy capacity and advisory systems
 
-With H. Tolga Bölükbaşı I examine how states build the capacity to design and deliver policy. Our article [The Crowding-In Effect](https://doi.org/10.1080/25741292.2026.2710926) (*Policy Design and Practice*, 2026) argues that technical assistance expands policy advisory systems and builds policy capacity. A second paper, *Recasting Policy Capacity Measurement for Societal Challenges: Pivotal Actors, Subsystems, and Configurations*, is under review at *Policy and Society*. Related conference work covers policy integration and the EU's governance transfer to pre-accession states.
+With H. Tolga Bölükbaşı I examine how states build the capacity to design and deliver policy. Our article [The Crowding-In Effect](https://doi.org/10.1080/25741292.2026.2710926) (*Policy Design and Practice*, 2026) argues that technical assistance expands policy advisory systems and builds policy capacity. A second paper, *Recasting Policy Capacity Measurement for Societal Challenges: Pivotal Actors, Subsystems, and Configurations*, is forthcoming in *Policy and Society*. Related conference work covers policy integration and the EU's governance transfer to pre-accession states. Work presented at COP31 in Antalya in November 2026 asks whether green jobs can be decent jobs in Türkiye and how policy integration can support a just transition in seasonal agriculture.
 
 ## Disability policy and social investment
 

@@ -6,7 +6,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<a class="button" href="{{ '/assets/pdf/CV_Biyiklioglu.pdf' | relative_url }}">Download the full CV (PDF, September 2026)</a>
+<a class="button" href="{{ '/assets/pdf/CV_Biyiklioglu.pdf' | relative_url }}">Download the full CV (PDF, November 2026)</a>
 
 ## Education
 
@@ -59,6 +59,10 @@ permalink: /cv/
 ## Fellowships, grants and awards
 
 <div class="rows">
+  <div class="row">
+    <div class="when">2027</div>
+    <div class="what"><p>komex Full Fellowship, Konstanz Methods Excellence Workshops, University of Konstanz</p></div>
+  </div>
   <div class="row">
     <div class="when">2023–present</div>
     <div class="what"><p>Full tuition fee waiver and monthly stipend, Ph.D., Bilkent University</p></div>
