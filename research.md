@@ -18,7 +18,7 @@ With H. Tolga Bölükbaşı I examine how states build the capacity to design an
 
 ## Disability policy and social investment
 
-My M.A. thesis, *Some Disabilities Are More Deserving: The Case of Assistive Technology Policies in the US and Türkiye*, compared assistive technology policies in the United States and Türkiye and asked why some disabilities are treated as more deserving than others. Later work with H. Tolga Bölükbaşı extended the comparison to veterans and civilians, to Germany, and to disability policy more broadly. In 2025 and 2026 I authored a thematic research paper for the EU-funded EESP SOP project that assesses Turkey's disability policy portfolio through the social investment framework, maps policy instruments across ministries by social investment function, and proposes a three-part policy roadmap on spending architecture, school-to-work transitions and labor market access.
+My M.A. thesis, *Some Disabilities Are More Deserving: The Case of Assistive Technology Policies in the US and Türkiye*, compared assistive technology policies in the United States and Türkiye and asked why some disabilities are treated as more deserving than others. Later work with H. Tolga Bölükbaşı extended the comparison to veterans and civilians, to Germany, and to disability policy more broadly. In 2026 I authored a thematic research paper for the EU-funded EESP SOP project that assesses Turkey's disability policy portfolio through the social investment framework, maps policy instruments across ministries by social investment function, and proposes a three-part policy roadmap on spending architecture, school-to-work transitions and labor market access.
 
 ## Collaborative and applied projects
 
